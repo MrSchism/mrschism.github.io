@@ -8,9 +8,10 @@ words_per_minute: 200
 url:              https://mrschism.github.io
 
 # Owner/author information
-authors:
+owner:
   name:           Joshua Embrey
     avatar:       avatar.jpg
+    link:         j_embrey
     bio:          "Hacker, Developer, and Engineer from Cape Coral, Florida."
     email:        mrschism@sdf.org
     # Social networking links used in footer. Update and remove as you like.
@@ -23,7 +24,23 @@ authors:
     flickr:         
     tumblr:         
   # google plus id, include the '+', eg +mmistakes
-  google_plus:    +thelastorpheus
+    google_plus:  +thelastorpheus
+  name:           Joseph Preston
+    avatar:       avatar.jpg
+    link:         j_preston
+    bio:          "Hacker, Developer, and Engineer from Cape Coral, Florida."
+    email:        jpreston86@gmail.com
+    # Social networking links used in footer. Update and remove as you like.
+    twitter:      
+    facebook:     
+    github:       https://github.com/jpreston86
+    stackexchange:  
+    linkedin:       
+    instagram:      
+    flickr:         
+    tumblr:         
+  # google plus id, include the '+', eg +mmistakes
+    google_plus:  
 
 # Background image to be tiled on all pages
 background: 
