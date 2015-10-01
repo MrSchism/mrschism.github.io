@@ -42,7 +42,7 @@ disqus_shortname: shortname
 url:              //mmistakes.github.io
 
 # Owner/author information
-owner:
+authors:
   name:           Your Name
   avatar:         avatar.jpg
   bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
