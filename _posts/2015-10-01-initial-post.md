@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sample Post
+title: It begins...
 description: "Jekyll Multiple User Demo"
 modified: 2015-10-01
 author: josh
