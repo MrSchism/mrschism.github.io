@@ -8,39 +8,23 @@ words_per_minute: 200
 url:              https://mrschism.github.io
 
 # Owner/author information
-owner:
-  name:           Joshua Embrey
-    avatar:       
-    link:         j_embrey
-    bio:          "Hacker, Developer, and Engineer from Cape Coral, Florida."
-    email:        mrschism@sdf.org
-    # Social networking links used in footer. Update and remove as you like.
-    twitter:      https://twitter.com/MrSchism
-    facebook:     https://facebook.com/thelastorpheus
-    github:       https://github.com/MrSchism
-    stackexchange:  
-    linkedin:       
-    instagram:      
-    flickr:         
-    tumblr:         
-  # google plus id, include the '+', eg +mmistakes
-    google_plus:  +thelastorpheus
-  name:           Joseph Preston
-    avatar:       
-    link:         j_preston
-    bio:          "Hacker, Developer, and Engineer from Cape Coral, Florida."
-    email:        jpreston86@gmail.com
-    # Social networking links used in footer. Update and remove as you like.
-    twitter:      
-    facebook:     
-    github:       https://github.com/jpreston86
-    stackexchange:  
-    linkedin:       
-    instagram:      
-    flickr:         
-    tumblr:         
-  # google plus id, include the '+', eg +mmistakes
-    google_plus:  
+authors:
+  josh:
+    name: Joshua Embrey
+    display_name: MrSchism
+    gravatar: 645286df9273b3b409c389c1079c2544
+    email: mrschism@sdf.org
+    web: http://villainystudios.com
+    twitter: https://twitter.com/MrSchism
+    github: MrSchism
+  joe:
+    name: Joseph Preston
+    display_name: JP
+    gravatar: 12e480a364a5c19214f99b4dfe9a11d5
+    email: jpreston86@gmail.com
+    web: http://villainystudios.com
+    twitter: jpreston86
+    github: jpreston86
 
 # Background image to be tiled on all pages
 background: 
